@@ -1,3 +1,4 @@
 let checkname = "Usama"
 
-console.log(checkname);
+let lastName = "Mustafa Memon"
+console.log(checkname + ' ' + lastName);
